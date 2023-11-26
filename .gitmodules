@@ -1,0 +1,3 @@
+[submodule "seanmc-recovery"]
+	path = seanmc-recovery
+	url = https://github.com/seanmc9/seanmc-recovery
